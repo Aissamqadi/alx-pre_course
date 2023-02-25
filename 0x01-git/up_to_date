@@ -1,0 +1,9 @@
+git init
+git clone
+git add <file>
+git commit -m "Commit message" 
+git push
+git pull
+git branch
+git checkout <branch>
+git status
